@@ -62,3 +62,12 @@ public class TugasModul {
         }
     }
 }
+//git
+//git config --global user.name "isi"
+//git config --global user.email "isi"
+//git init
+//git add (file yang akan di upload)
+//git commit -m "first commit"
+//git branch -M main
+//git remote add origin (link repository)
+//git push -u origin main
